@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Team_Project::BootStrapp">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACwAAEAAAgRgABiIAAEAQAAAAAAAIAAAQEFBgCAA=</HashCode>
+      <FileName>Bootstrap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team_Project::returns">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAQYRIEAAAAAABAAIEBAEBgAAGAAUCAQBAAABAAA=</HashCode>
+      <FileName>Returns.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team_Project::Ticker">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAQYAAAABEAAAABgiAABAAQAAACgAAEAAAAA=</HashCode>
+      <FileName>Ticker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team_Project::Index">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Ticker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team_Project::Stock">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAYACAAEAAAgARAAACQAAggAAUAAIACAQAgAAKAA=</HashCode>
+      <FileName>Ticker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Team_Project::MemoryStruct" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Bootstrap.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Vector" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Matrix" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Vint" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
